@@ -1,2 +1,3 @@
 # Six_Sigma
-SixSigma 교육과정(DX)
+  Data Handling 과정입문 
+ 
